@@ -1,0 +1,27 @@
+select.select2{
+    width: 100% !important;
+}
+
+.ck-editor__editable_inline {
+    min-height: 400px;
+}
+
+.login-page{
+    background: url("../../public/img/background.png") no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+
+.login-page,
+.register-page {
+  align-items: center !important;
+  display: flex !important;
+  flex-direction: column !important;
+  height: 100vh !important;
+  justify-content: center !important;
+}
+
+.clickable {
+    cursor: pointer !important;
+  }
